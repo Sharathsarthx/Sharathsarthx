@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./Sharath_Babu_GitHub_Banner.png" width="100%" alt="Sharath Babu - Neon Wolf Cyber Profile"/>
+<img src=""C:\Users\Shadow\Downloads\Sharath_Babu_GitHub_Banner.png"" width="100%" alt="Sharath Babu - Neon Wolf Cyber Profile"/>
 
 <br/>
 
