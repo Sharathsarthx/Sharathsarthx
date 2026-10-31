@@ -40,7 +40,7 @@ I'm passionate about technology, project management, strategic planning, team co
 
 - 💼 Company: Sarthx
 - 📧 Email: sharath@sarthx.com
-- 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub: [My GitHub Profile](https://github.com/@androiddonga)
 
 ---
 
