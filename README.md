@@ -8,8 +8,6 @@
   width="100%"
 />
 
-<br/>
-
 <!-- Previous Self-Employment: Cloud & VPS Services -->
 <img
   src="./wide_futuristic_cyberpunk_banner_resume_style_he.png"
