@@ -12,7 +12,7 @@
 
 <!-- Previous Self-Employment: Cloud & VPS Services -->
 <img
-  src="./Sharath_Babu_Cloud_VPS_Banner.png"
+  src="./wide_futuristic_cyberpunk_banner_resume_style_he.png"
   alt="Sharath Babu - Cloud Computing, RDP and VPS Services with Azure, AWS and Linode"
   width="100%"
 />
