@@ -1,30 +1,12 @@
 
-<!-- ========================================================= -->
-<!-- SHARATH BABU | PREMIUM CYBER EXECUTIVE PROFILE             -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=8&section=header" width="100%" />
+<img src="./Sharath_Babu_GitHub_Banner.png" width="100%" alt="Sharath Babu - Neon Wolf Cyber Profile"/>
 
-<h3>BUILD &nbsp; • &nbsp; INNOVATE &nbsp; • &nbsp; TRANSFORM</h3>
+<br/>
 
-<img src="https://img.shields.io/badge/ASSOCIATE_PROJECT_MANAGER-SARTHX-00D9FF?style=for-the-badge&labelColor=080808" />
-
-<br/><br/>
-
-<img src="./Neon_Wolf_Gamer_Portrait_optimized_1000.png" width="260" alt="Sharath Babu - Neon Wolf Portrait"/>
-
-# <span>SHARATH BABU</span>
-
-### THINK &nbsp; • &nbsp; PLAN &nbsp; • &nbsp; <span style="color:red">EXECUTE</span> &nbsp; • &nbsp; <span style="color:#00D9FF">INNOVATE</span>
-
-> Turning ideas into execution.  
-> Building a smarter tomorrow.
-
-<img src="https://img.shields.io/badge/LOCATION-HYDERABAD,_INDIA-00D9FF?style=flat-square&labelColor=080808"/>
-<img src="https://img.shields.io/badge/ROLE-ASSOCIATE_PROJECT_MANAGER-FF3030?style=flat-square&labelColor=080808"/>
-<img src="https://img.shields.io/badge/ORGANIZATION-SARTHX-00D9FF?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/THINK-PLAN-050505?style=for-the-badge&labelColor=050505&color=00D9FF"/>
+<img src="https://img.shields.io/badge/EXECUTE-INNOVATE-050505?style=for-the-badge&labelColor=050505&color=FF3030"/>
 
 </div>
 
@@ -34,7 +16,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 🔹 ABOUT ME
+<h2>🔹 ABOUT ME</h2>
 
 Hello! I'm **Sharath Babu**, currently working as an **Associate Project Manager at Sarthx**.
 
@@ -47,7 +29,7 @@ I am passionate about technology, strategic planning, project coordination, and 
 </td>
 <td width="42%" valign="top">
 
-## 🎯 PROFESSIONAL FOCUS
+<h2>🎯 PROFESSIONAL FOCUS</h2>
 
 - 🔹 Project Management
 - 🔹 Team Coordination
@@ -62,13 +44,13 @@ I am passionate about technology, strategic planning, project coordination, and 
 
 ---
 
-## ⚡ TECHNOLOGY INTERESTS
+<h2 align="center">⚡ TECHNOLOGY INTERESTS</h2>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-050505?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/CYBERSECURITY-050505?style=for-the-badge&logo=hackthebox&logoColor=FF3030"/>
-<img src="https://img.shields.io/badge/AUTOMATION-050505?style=for-the-badge&logo= n8n&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/AUTOMATION-050505?style=for-the-badge&logo=n8n&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/CLOUD_TECHNOLOGIES-050505?style=for-the-badge&logo=icloud&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/INNOVATION-050505?style=for-the-badge&logo=rocket&logoColor=FF3030"/>
 
@@ -76,33 +58,33 @@ I am passionate about technology, strategic planning, project coordination, and 
 
 ---
 
-## 📊 GITHUB STATS
+<h2 align="center">📊 GITHUB STATS</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharathsarthx&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=FF3030&text_color=FFFFFF&ring_color=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharathsarthx&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=FF3030&text_color=FFFFFF"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharathsarthx&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharathsarthx&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharathsarthx&hide_border=true&background=050505&ring=00D9FF&fire=FF3030&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharathsarthx&hide_border=true&background=050505&ring=00D9FF&fire=FF3030&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888"/>
 
 </div>
 
 ---
 
-## 🟢 CONTRIBUTION ACTIVITY
+<h2 align="center">🟢 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharathsarthx&bg_color=050505&color=00D9FF&line=00D9FF&point=FF3030&area=true&hide_border=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharathsarthx&bg_color=050505&color=00D9FF&line=00D9FF&point=FF3030&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔗 CONNECT WITH ME
+<h2 align="center">🔗 CONNECT WITH ME</h2>
 
 <div align="center">
 
@@ -116,12 +98,10 @@ I am passionate about technology, strategic planning, project coordination, and 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:050505&height=3" width="100%"/>
+<img src="https://img.shields.io/badge/SHARATH_BABU-ASSOCIATE_PROJECT_MANAGER-050505?style=for-the-badge&labelColor=050505&color=00D9FF"/>
 
-### SHARATH BABU &nbsp; • &nbsp; ASSOCIATE PROJECT MANAGER @ SARTHX
+### THINK • PLAN • EXECUTE • INNOVATE
 
-**THINK • PLAN • EXECUTE • INNOVATE**
-
-<img src="https://img.shields.io/badge/NEVER_STOP_BUILDING-00D9FF?style=for-the-badge&labelColor=080808"/>
+**BUILD • INNOVATE • TRANSFORM**
 
 </div>
